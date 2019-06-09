@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Joe\'s Number Game</string>
+    <string name="app_description">This is the game that gives the largest number.
+There are three chances. If you make a mistake three times, the game ends.</string>
+    <string name="game_description">Please tap the button with the highest number</string>
+    <string name="play_two_numbers_game">Play Two numbers Game</string>
+    <string name="play_four_numbers_game">Play Four numbers Game</string>
+    <string name="try_again">Try Again</string>
+
+</resources>
